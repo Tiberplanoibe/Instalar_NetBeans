@@ -1,6 +1,4 @@
 # Instalar_NetBeans
- 
-Instalar NetBeans en PC.
 
 Para Instalar el programa se deben seguir los siguientes pasos:
 
